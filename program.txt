@@ -1,5 +1,6 @@
 main(){
     cout<<"hello world"<<endl;
+    return 0;
 }
 method1(){
     cout<<"my name is yangguang"<<endl;
