@@ -1,3 +1,6 @@
 main(){
     cout<<"hello world"<<endl;
 }
+method1(){
+    cout<<"my name is yangguang"<<endl;
+}
